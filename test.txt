@@ -1,0 +1,50 @@
+package com.john_pank.chapter13.task15;
+
+import java.io.*;
+import java.util.ArrayList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * Filosofia_Java
+ * Created by John Pank on 05.09.2016.
+ */
+public class JGrep {
+
+    private ArrayList<String> readFile(String fileName){
+        ArrayList<String> result = new ArrayList<>();
+        String str;
+        try{
+            System.out.println(fileName);
+            BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(fileName)));
+            while ((str = reader.readLine()) != null){
+                result.add(str);
+            }
+        }
+        catch (Exception e){
+            System.out.println("Error in file opener!");
+            e.printStackTrace();
+        }
+        return result;
+    }
+
+    public static void main(String[] args) throws IOException {
+        JGrep jg = new JGrep();
+        ArrayList<String> list;
+        if(args.length < 2){
+            System.out.println("Arguments error!");
+            System.exit(0);
+        }
+        System.out.println(args[0]);
+        list = jg.readFile(args[0]);
+        int index = 0;
+        Pattern p = Pattern.compile(args[1]);
+        Matcher m = p.matcher("");
+        for (String line : list){
+            m.reset(line);
+            while (m.find())
+                System.out.println(index++ + ": " + m.group() + ": " + m.start());
+
+        }
+    }
+}
