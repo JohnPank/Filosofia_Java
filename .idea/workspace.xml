@@ -9,10 +9,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0831736-be41-4687-8e93-85e2779e23a8" name="Default" comment="Chapter 18 finished">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trolls.ser" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UTrolls.ser" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arhiv.zip" />
+    <list default="true" id="e0831736-be41-4687-8e93-85e2779e23a8" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/DOCParserXML/DOCParserXML.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/DOCParserXML/DeadKnight.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task1/DirFilter.class" />
@@ -26,22 +23,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task27/Troll.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task7/FileToList.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/zipArh/Arhivator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rtest.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreText.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UData.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UData2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task1/DirList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task15/StoringAndRecoveringData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task16/UsingRandomAccessFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task22/OSExecute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task23/BufferToText.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task27/SeriazableTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task7/FileToList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/zipArh/Arhivator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Filosofia_Java.iws" />
@@ -1142,7 +1123,13 @@
       <option name="project" value="LOCAL" />
       <updated>1494509423001</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Chapter 18 finished">
+      <created>1494517169107</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1494517169107</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
