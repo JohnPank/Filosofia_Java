@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<warriors>
+    <deadKnights>
+        <knight>
+            <id>0</id>
+            <level>0</level>
+        </knight>
+        <knight>
+            <id>1</id>
+            <level>2</level>
+        </knight>
+        <knight>
+            <id>2</id>
+            <level>2</level>
+        </knight>
+        <knight>
+            <id>3</id>
+            <level>6</level>
+        </knight>
+        <knight>
+            <id>4</id>
+            <level>8</level>
+        </knight>
+        <knight>
+            <id>5</id>
+            <level>1</level>
+        </knight>
+        <knight>
+            <id>6</id>
+            <level>5</level>
+        </knight>
+        <knight>
+            <id>7</id>
+            <level>3</level
+            ></knight>
+        <knight>
+            <id>8</id>
+            <level>2</level>
+        </knight>
+        <knight>
+            <id>9</id>
+            <level>9</level>
+        </knight>
+    </deadKnights>
+</warriors>

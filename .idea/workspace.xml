@@ -10,7 +10,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0831736-be41-4687-8e93-85e2779e23a8" name="Default" comment="Chapter 18 finished">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/DOCParserXML/DOCParserXML.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trolls.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UTrolls.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arhiv.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/DOCParserXML/DOCParserXML.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/DOCParserXML/DeadKnight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task1/DirFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task1/DirList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task15/StoringAndRecoveringData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task16/UsingRandomAccessFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task22/OSExecute.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task23/BufferToText.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task27/Axe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task27/SeriazableTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task27/Troll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/task7/FileToList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Filosofia_Java/com/john_pank/chapter18/zipArh/Arhivator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rtest.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreText.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UData.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UData2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task1/DirList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task15/StoringAndRecoveringData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task16/UsingRandomAccessFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task22/OSExecute.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task23/BufferToText.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task27/SeriazableTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/task7/FileToList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/john_pank/chapter18/zipArh/Arhivator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Filosofia_Java.iws" />
@@ -47,14 +78,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DOCParserXML.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DOCParserXML.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/DOCParserXML/DOCParserXML.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07738815">
+            <state vertical-scroll-proportion="0.0">
               <caret line="66" column="53" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="53" />
               <folding>
                 <element signature="class#DeadKnight#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferToText.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task23/BufferToText.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StoringAndRecoveringData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task15/StoringAndRecoveringData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeriazableTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task27/SeriazableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+              <folding>
+                <element signature="class#Axe#0" expanded="false" />
+                <element signature="class#Troll#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DirList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task1/DirList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.1058394">
+              <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,8 +224,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="7" />
+    <option name="x" value="151" />
+    <option name="y" value="19" />
     <option name="width" value="1410" />
     <option name="height" value="1013" />
   </component>
@@ -580,7 +654,7 @@
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="filosofia_java" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/john_pank/chapter13/task18/LiteralFinder.java" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
@@ -1062,7 +1136,13 @@
       <option name="project" value="LOCAL" />
       <updated>1494508769304</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Chapter 18 finished">
+      <created>1494509423001</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494509423001</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1075,8 +1155,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="7" width="1410" height="1013" extended-state="0" />
-    <editor active="true" />
+    <frame x="151" y="19" width="1410" height="1013" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1084,7 +1164,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31030577" sideWeight="0.50262815" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32814816" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263158" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36023393" sideWeight="0.49737188" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827103" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1411,22 +1491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task1/DirList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task15/StoringAndRecoveringData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task16/UsingRandomAccessFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1459,36 +1523,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task23/BufferToText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2620424">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task22/OSExecute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16377649">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task27/SeriazableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="class#Axe#0" expanded="false" />
-            <element signature="e#210#211#0" expanded="false" />
-            <element signature="e#246#247#0" expanded="false" />
-            <element signature="e#276#277#0" expanded="false" />
-            <element signature="e#305#306#0" expanded="false" />
-            <element signature="class#Troll#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#579#580#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1510,11 +1549,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/DOCParserXML/DOCParserXML.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07738815">
+        <state vertical-scroll-proportion="0.0">
           <caret line="66" column="53" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="53" />
           <folding>
             <element signature="class#DeadKnight#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task23/BufferToText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task15/StoringAndRecoveringData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task27/SeriazableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding>
+            <element signature="class#Axe#0" expanded="false" />
+            <element signature="class#Troll#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/john_pank/chapter18/task1/DirList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1058394">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
